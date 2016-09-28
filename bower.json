@@ -1,0 +1,26 @@
+{
+  "name": "Starter",
+  "description": "Let's get Kraken!",
+  "main": "index.js",
+  "authors": [
+    "Austin Lyon"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/austinlyon/ReactStarterG",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.13.0",
+    "lodash": "^4.13.1",
+    "jquery": "^2.2.4"
+  },
+  "install": {
+    "path": "client/lib"
+  }
+}

@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+#entryFormContainer {
+  margin-left: 20px;
+  font-size: 18px;
+}
+#entryFormContainer form > span {
+  margin: 0 10px;
+}
+#entryFormContainer input {
+  font-size: 18px;
+}

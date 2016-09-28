@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Builds and Bundles
+client/build
+
+# Dependency directories
+node_modules
+bower_components
+client/lib
